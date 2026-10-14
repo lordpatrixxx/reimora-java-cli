@@ -1,0 +1,7 @@
+SYNTHETIC DEMONSTRATION RECEIPT - NOT A REAL TRANSACTION
+Vendor: Demo Campus Stationery
+Amount: 2650.00
+Date: 2026-10-14
+Reference: DEMO-BILL-001
+Items: Notebooks, pens, drawing sheets and chart paper
+Purpose: Materials for the college mini-project

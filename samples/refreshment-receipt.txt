@@ -1,0 +1,7 @@
+SYNTHETIC DEMONSTRATION RECEIPT - NOT A REAL TRANSACTION
+Vendor: Demo Campus Cafe
+Amount: 1700.00
+Date: 2026-10-14
+Reference: DEMO-BILL-002
+Items: Tea and snacks
+Purpose: Refreshments for project demonstration volunteers
